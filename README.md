@@ -1,7 +1,6 @@
-### Hi there 👋, my name is Blagoje Jevrosimov from Serbia.
-#### I am a Fullstack Software Engineer specializing in .Net and Angular develpment.
 
-I have been coding in C# and C-like languages for about 5 years now, mostly working with with .Net Framework and .Net Core. I have also worked on the WCF and WPF frameworks as well. As for my database expecience, it has mostly been in SQL Server using ADO.NET and EF as well as Oracle and SQL. Recently I have added Angular to my tech stack in an effor to become a fulstack developer. Even though I prefer working backend apps, the transition to fullstack developer has not been too difficult as I have experience with JS, HTML and CSS dating to my university days. 
+
+
 
 Soft Skills:
 <ol>
@@ -28,8 +27,10 @@ Soft Skills:
 
 
 
-<h1 align="center">Hi 👋, I'm Blagoje Jevrosimov</h1>
+<h1 align="center">Hi 👋, I'm Blagoje Jevrosimov from Serbia</h1>
 <h3 align="center">I am a Fullstack Software Engineer specializing in .Net and Angular develpment.</h3>
+<h2>About me:</h2>
+<p>I have been coding in C# and C-like languages for about 5 years now, mostly working with with .Net Framework and .Net Core. I have also worked on the WCF and WPF frameworks as well. As for my database expecience, it has mostly been in SQL Server using ADO.NET and EF as well as Oracle and SQL. Recently I have added Angular to my tech stack in an effor to become a fulstack developer. Even though I prefer working backend apps, the transition to fullstack developer has not been too difficult as I have experience with JS, HTML and CSS dating to my university days. </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
