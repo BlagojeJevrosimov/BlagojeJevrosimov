@@ -3,8 +3,15 @@
 
 I have been coding in C# and C-like languages for about 5 years now, mostly working with with .Net Framework and .Net Core. I have also worked on the WCF and WPF frameworks as well. As for my database expecience, it has mostly been in SQL Server using ADO.NET and EF as well as Oracle and SQL. Recently I have added Angular to my tech stack in an effor to become a fulstack developer. Even though I prefer working backend apps, the transition to fullstack developer has not been too difficult as I have experience with JS, HTML and CSS dating to my university days. 
 
-Skills: .NET / ANGULAR / HTML / CSS / JS 
-
+Hard Skills: .NET / ANGULAR / HTML / CSS / JS (TS)
+Soft Skills:
+  -Fluent in Serbian (native language) and in English with a proficiency level of C1.
+  -Excellent communication and interpersonal skills.
+  -Ability to work independently and as part of a team.
+  -Patient and persistent in overcoming challenges.
+  -Detail-oriented and able to handle multiple tasks simultaneously.
+  -Analytical problem-solver with strong critical thinking skills.
+  -Adaptable and quick to learn new technologies.
 
 - 🔭 I’m currently working on migrating a .Net Framework Web Pages app to .Net Core 8/Angular app 
 - 🔭 In my personal projects, I am currently working on a board game(Hive) solver
