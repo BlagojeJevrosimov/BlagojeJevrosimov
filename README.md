@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img src="https://www.canva.com/design/DAGJOr1Zz-g/E8oSV5YmIxuS2raLVf9utg/edit?utm_content=DAGJOr1Zz-g&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" style="height: 150px;
+<img src="https://www.canva.com/design/DAGJOr1Zz-g/1QU0kPyrwJuZ_WN6xjmTVg/view" style="height: 150px;
   width: 100%;
   position: absolute;
   margin: 0px;">
