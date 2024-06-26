@@ -5,14 +5,13 @@ I have been coding in C# and C-like languages for about 5 years now, mostly work
 
 Soft Skills:
 <ol>
-    <li>-Fluent in Serbian (native language) and in English with a proficiency level of C1.</li>
-    
-    <li>-Excellent communication and interpersonal skills.</li>
-    <li>-Ability to work independently and as part of a team.</li>
-    <li>    -Patient and persistent in overcoming challenges.</li>
-    <li>    -Detail-oriented and able to handle multiple tasks simultaneously.</li>
-    <li>-Analytical problem-solver with strong critical thinking skills.</li>
-    <li>-Adaptable and quick to learn new technologies.</li>
+    <li>Fluent in Serbian (native language) and in English with a proficiency level of C1.</li>
+    <li>Excellent communication and interpersonal skills.</li>
+    <li>Ability to work independently and as part of a team.</li>
+    <li>Patient and persistent in overcoming challenges.</li>
+    <li>Detail-oriented and able to handle multiple tasks simultaneously.</li>
+    <li>Analytical problem-solver with strong critical thinking skills.</li>
+    <li>Adaptable and quick to learn new technologies.</li>
 </ol>
 
 <h3 align="left">Languages and Tools:</h3>
