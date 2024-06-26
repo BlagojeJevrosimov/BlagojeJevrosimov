@@ -24,9 +24,9 @@ Adaptable and quick to learn new technologies.
 </p>
 <h2>Current work:</h2>
   <ul>
-    <li>- 🔭 I’m working on migrating a .Net Framework Web Pages app to .Net Core 8/Angular app </li>
-    <li>- 🔭 In my personal projects, I am working on a board game(Hive) solver</li>
-    <li>- 🌱 I am also working on improving at angular and TS, doing courses</li>
+    <li> 🔭 I’m working on migrating a .Net Framework Web Pages app to .Net Core 8/Angular app </li>
+    <li> 🔭 In my personal projects, I am working on a board game(Hive) solver</li>
+    <li> 🌱 I am also working on improving at angular and TS, doing courses</li>
   </ul>
 
 
