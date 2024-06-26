@@ -12,8 +12,9 @@ Soft Skills:
     -Analytical problem-solver with strong critical thinking skills.
     -Adaptable and quick to learn new technologies.
 
-Hard Skills: .NET / ANGULAR / HTML / CSS / JS (TS)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlagojeJevrosimov)](https://github.com/anuraghazra/github-readme-stats)
+Hard Skills: .NET / ANGULAR / HTML / CSS / JS (TS)
 
 - 🔭 I’m currently working on migrating a .Net Framework Web Pages app to .Net Core 8/Angular app 
 - 🔭 In my personal projects, I am currently working on a board game(Hive) solver
@@ -22,7 +23,6 @@ Hard Skills: .NET / ANGULAR / HTML / CSS / JS (TS)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/BlagojeJevrosimov)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/blagoje-jevrosimov-14552b219//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/25742153/blagoje-jevrosimov)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=BlagojeJevrosimov)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
