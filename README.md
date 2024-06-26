@@ -1,5 +1,8 @@
 ## Hi there 👋
-<img src="https://github.com/BlagojeJevrosimov/BlagojeJevrosimov/blob/main/v796-nunny-03b.jpg" style="size: 20% 100%">
+<img src="https://github.com/BlagojeJevrosimov/BlagojeJevrosimov/blob/main/v796-nunny-03b.jpg" style="height: 100px;
+  width: 100%;
+  position: absolute;
+  margin: 0px;">
 <!--
 **BlagojeJevrosimov/BlagojeJevrosimov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
