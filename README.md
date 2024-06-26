@@ -24,15 +24,16 @@ Adaptable and quick to learn new technologies.
 </p>
 <h2>Currently:</h2>
 <p>
-- 🔭 I’m working on migrating a .Net Framework Web Pages app to .Net Core 8/Angular app 
-- 🔭 In my personal projects, I am working on a board game(Hive) solver
-- 🌱 I am also working on improving at angular and TS, doing courses
+  <ul>
+    <li>- 🔭 I’m working on migrating a .Net Framework Web Pages app to .Net Core 8/Angular app </li>
+    <li>- 🔭 In my personal projects, I am working on a board game(Hive) solver</li>
+    <li>- 🌱 I am also working on improving at angular and TS, doing courses</li>
+  </ul>
 </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/https://www.linkedin.com/in/blagoje-jevrosimov-14552b219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/https://www.linkedin.com/in/blagoje-jevrosimov-14552b219" height="30" width="40" /></a>
-  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/BlagojeJevrosimov)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/blagoje-jevrosimov-14552b219//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/25742153/blagoje-jevrosimov)  
 </p>
 
 
