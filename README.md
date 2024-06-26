@@ -1,27 +1,16 @@
-## Hi there 👋
-<img src="https://www.canva.com/design/DAGJOr1Zz-g/1QU0kPyrwJuZ_WN6xjmTVg/view" style="height: 150px;
-  width: 100%;
-  position: absolute;
-  margin: 0px;">
-  <div style="position: relative; width: 100%; height: 0; padding-top: 33.3333%;
- padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
- border-radius: 8px; will-change: transform;">
-  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
-    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGJOr1Zz-g&#x2F;1QU0kPyrwJuZ_WN6xjmTVg&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
-  </iframe>
-</div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGJOr1Zz-g&#x2F;1QU0kPyrwJuZ_WN6xjmTVg&#x2F;view?utm_content=DAGJOr1Zz-g&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Blagoje Jevrosimov</a> by Blagoje Jevrosimov
-<!--
-**BlagojeJevrosimov/BlagojeJevrosimov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋, Hi, my name is Blagoje Jevrosimov
+#### Fullstack Software Engineer
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Here are some ideas to get you started:
+Skills: .NET / ANGULAR / HTML / CSS / JS 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on .Net Framework to .Net Core 8 Migration 
+- 🌱 I’m currently learning Angular 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/BlagojeJevrosimov)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/blagoje-jevrosimov-14552b219//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/25742153/blagoje-jevrosimov)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=BlagojeJevrosimov)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlagojeJevrosimov)](https://github.com/anuraghazra/github-readme-stats)
+
