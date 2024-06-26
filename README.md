@@ -1,6 +1,7 @@
 ### Hi there 👋, my name is Blagoje Jevrosimov from Serbia.
 #### I am a Fullstack Software Engineer specializing in .Net and Angular develpment.
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+
+I have been coding in C# and C-like languages for about 5 years now, mostly working with with .Net Framework and .Net Core. I have also worked on the WCF and WPF frameworks as well. As for my database expecience, it has mostly been in SQL Server using ADO.NET and EF as well as Oracle and SQL. Recently I have added Angular to my tech stack in an effor to become a fulstack developer. Even though I prefer working backend apps, the transition to fullstack developer has not been too difficult as I have experience with JS, HTML and CSS dating to my university days. 
 
 Skills: .NET / ANGULAR / HTML / CSS / JS 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlagojeJevrosimov)](https://github.com/anuraghazra/github-readme-stats)
