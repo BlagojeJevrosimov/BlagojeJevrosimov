@@ -22,14 +22,13 @@ Detail-oriented and able to handle multiple tasks simultaneously.
 Analytical problem-solver with strong critical thinking skills.
 Adaptable and quick to learn new technologies.
 </p>
-<h2>Currently:</h2>
-<p>
+<h2>Current work:</h2>
   <ul>
     <li>- 🔭 I’m working on migrating a .Net Framework Web Pages app to .Net Core 8/Angular app </li>
     <li>- 🔭 In my personal projects, I am working on a board game(Hive) solver</li>
     <li>- 🌱 I am also working on improving at angular and TS, doing courses</li>
   </ul>
-</p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
